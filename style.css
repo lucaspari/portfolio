@@ -14,44 +14,11 @@
   transform: rotate(-5deg);
 }
 
-span::before {
-  background-color: #000;
-  width: 30px;
-  height: 5px;
-  content: "";
-  position: absolute;
-  left: 64px;
-  top: 28px;
+.back-blue {
+  clip-path: circle(64.8% at 50% -13%);
 }
-
-span::after {
-  background-color: #000;
-  width: 30px;
-  height: 5px;
-  content: "";
-  position: absolute;
-  left: 255px;
-  top: 28px;
-}
-
 @media (max-width: 1024px) {
-  span::before {
-    background-color: #000;
-    width: 30px;
-    height: 5px;
-    content: "";
-    position: absolute;
-    left: 26px;
-    top: 28px;
-  }
-
-  span::after {
-    background-color: #000;
-    width: 30px;
-    height: 5px;
-    content: "";
-    position: absolute;
-    left: 221px;
-    top: 28px;
+  .back-blue {
+    clip-path: circle(65.8% at 50% 41%);
   }
 }
