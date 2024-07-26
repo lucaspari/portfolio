@@ -20,6 +20,18 @@
 .back-blue {
   clip-path: circle(64.8% at 50% -13%);
 }
+iframe {
+  flex: 0 0 49%;
+}
+.hidden-ani {
+  opacity: 0;
+  transition: all 2s;
+  transform: translateX(-100%);
+}
+.show-ani {
+  opacity: 1;
+  transform: translateX(0);
+}
 @media (max-width: 1024px) {
   .back-blue {
     clip-path: circle(65.8% at 50% 41%);
