@@ -1,6 +1,6 @@
 # Portfolio
 
-This is a personal portfolio website for Lucas Pari, showcasing his professional experience, skills, and projects. The website is built using HTML, CSS, and Tailwind CSS.
+This is a personal portfolio website for me, showcasing my professional experience and badges. The website is built using HTML, CSS, and Tailwind CSS.
 
 ## Table of Contents
 
