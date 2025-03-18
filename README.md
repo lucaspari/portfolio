@@ -1,6 +1,6 @@
 # Portfolio
 
-This is a personal portfolio website for me, showcasing my professional experience and badges. The website is built using HTML, CSS, and Tailwind CSS. And it is available [here](www.lucaspari.xyz).
+This is a personal portfolio website for me, showcasing my professional experience and badges. The website is built using HTML, CSS, and Tailwind CSS. And it is available <a href="https://www.lucaspari.xyz">Here</a>.
 
 ## Table of Contents
 
